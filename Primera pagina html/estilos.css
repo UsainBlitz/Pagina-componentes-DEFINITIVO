@@ -1,0 +1,15 @@
+﻿body
+{
+    font-family: 'Times New Roman', Times, SimSun;
+    background-color: darkgrey;
+}
+h1{
+    text-align: justify;
+}
+li {
+    font-size:18px;
+    color:black;
+}
+span {
+    background-color: darkcyan;
+}
